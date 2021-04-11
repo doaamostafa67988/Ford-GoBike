@@ -1,7 +1,7 @@
 # Communicate-Data-Findings
-by ** Doaa Mostafa **
-Udacity's Data Analyst Nanodegree - Project 3
-***Dataset:*** [Ford GoBike](https://www.fordgobike.com/system-data)
+by **Doaa Mostafa**
+Udacity's Data Analyst Nanodegree - Project 3 <br>
+**Dataset:** [Ford GoBike](https://www.fordgobike.com/system-data)
 This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 
 Each trip is anonymized and includes:
